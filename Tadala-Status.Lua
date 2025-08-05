@@ -1,4 +1,4 @@
---Carregamento feito com sucesso. Bom jogo!
+--Deu Certo Ze Ruela!
 
 
 
@@ -603,6 +603,7 @@ UI.Separator()
 
 
 print("Tadala Discord: Sistema ativo!  by SouledScripts") 
+
 
 
 
